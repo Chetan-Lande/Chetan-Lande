@@ -2,7 +2,7 @@
 
 I'm a Computer Engineer passionate about Data Science, Web Development, and DevOps. Welcome to my GitHub profile!
 
-# Hi there! 👋 I'm Chetan Lande!
+
 
 👨‍💻 Computer Engineer | 🌐 Data Science Enthusiast | 🛠️ DevOps Practitioner
 
